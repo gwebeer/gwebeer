@@ -1,7 +1,7 @@
 <h1 align="center"> Guilherme Weber </h1>
-<h3 align="center"> Estudante de Sistemas de Informação e Desenvolvedor</h3>
+<h3 align="center"> Web Developer and Information Systems Student </h3>
 
-<p> Bem-vindo ao meu github! Procuro deixar todos os projetos que já desenvolvi armazenados por aqui. </p>
+<p> Welcome to my GitHub! Here I store some projects developed through my academic and professional career! </p>
 <p> 📚 Bacharelado em Sistemas de Informação - PUCPR | 4º Período</p>
 <p> 👨‍💻 Foco em desenvolvimento Web</p>
 <p> 📫 Entre em contato através de meu <a href="https://www.linkedin.com/in/weberguilherme/"> Linkdin </a> ou me mande um <a href="mailto:guilherme.weber@pucpr.edu.br"> e-mail</a>.</p>
