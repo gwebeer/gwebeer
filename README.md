@@ -49,3 +49,5 @@
     <td> Java </td>
   </tr>
  </table>
+
+<h6> Go to linkedin to see the certificates and find out more about my skills </h6>
