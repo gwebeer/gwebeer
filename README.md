@@ -50,4 +50,4 @@
   </tr>
  </table>
 
-<h6> Go to linkedin to see the certificates and find out more about my skills </h6>
+<h6> - Go to <a href="https://www.linkedin.com/in/weberguilherme/"> LinkedIn </a> to see the certificates and find out more about my skills </h6>
