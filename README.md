@@ -2,14 +2,14 @@
 <h3 align="center"> Web Developer and Information Systems Student </h3>
 
 <p> Welcome to my GitHub! Here I store some projects developed through my academic and professional career! </p>
-<p> 📚 Bacharelado em Sistemas de Informação - PUCPR | 4º Período</p>
-<p> 👨‍💻 Foco em desenvolvimento Web</p>
-<p> 📫 Entre em contato através de meu <a href="https://www.linkedin.com/in/weberguilherme/"> Linkdin </a> ou me mande um <a href="mailto:guilherme.weber@pucpr.edu.br"> e-mail</a>.</p>
+<p> 📚 Graduating in Information Systems at PUCPR (Brazil) | 4th period </p>
+<p> 👨‍💻 Web Developer focused on ReactJS </p>
+<p> 📫 Contact me on <a href="https://www.linkedin.com/in/weberguilherme/"> LinkedIn </a> or send a <a href="mailto:guilherme.weber@pucpr.edu.br"> email</a>. </p>
 
 
 
 
-<h2>🛠 Tecnologias </h2>
+<h2>🛠 Technologies </h2>
 <table>
   <thead>
     <th> <img height="40"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> </th>
@@ -34,5 +34,16 @@
     <td> Python </td>
     <td> Visual Basic </td>
     <td> Java </td>
+  </tr>
+ </table>
+
+<table>
+  <thead>
+    <th> <img height="40"src="https://th.bing.com/th/id/R.66657f5dc34703daceb62cb80cf2f7d4?rik=leC2w0XocKzzXw&riu=http%3a%2f%2fwww.jsweet.org%2fwp-content%2fuploads%2f2016%2f04%2freact-logo-300x289.png&ehk=8VP5WneINrDRKOGLup9KChH5HsoEQWor%2bDYkJIHeRmI%3d&risl=&pid=ImgRaw&r=0"> </th>
+    <th> <img height="40"src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0"></th>
+  </thead>
+  <tr>
+    <td> ReactJS </td>
+    <td> Firebase </td>
   </tr>
  </table>
