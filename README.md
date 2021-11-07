@@ -10,7 +10,7 @@
 
 
 <h2>🛠 Technologies </h2>
-<h4> Front-End Knowledge </h4>
+<h4> Web Development Knowledge </h4>
 <table>
   <thead>
     <th> <img height="40"src="https://th.bing.com/th/id/R.66657f5dc34703daceb62cb80cf2f7d4?rik=leC2w0XocKzzXw&riu=http%3a%2f%2fwww.jsweet.org%2fwp-content%2fuploads%2f2016%2f04%2freact-logo-300x289.png&ehk=8VP5WneINrDRKOGLup9KChH5HsoEQWor%2bDYkJIHeRmI%3d&risl=&pid=ImgRaw&r=0"> </th>
