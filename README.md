@@ -2,7 +2,7 @@
 <h3 align="center"> Web Developer and Information Systems Student </h3>
 
 <p> Welcome to my GitHub! Here I store some projects developed through my academic and professional career! </p>
-<p> 📚 Graduating in Information Systems at PUCPR (Brazil) | 4th period </p>
+<p> 📚 Graduating in Information Systems at PUCPR (Brazil) | 5th period </p>
 <p> 👨‍💻 Web Developer focused on ReactJS </p>
 <p> 📫 Contact me on <a href="https://www.linkedin.com/in/weberguilherme/"> LinkedIn </a> or send an <a href="mailto:guilherme.weber@pucpr.edu.br"> email</a>. </p>
 
