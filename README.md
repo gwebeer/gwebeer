@@ -15,6 +15,7 @@
     <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"></th>
     <th> <img height="40"src="https://cdn.techcommunity.microsoft.com/assets/PowerPlatform/xuPlE1EJ_400x400.png"> </th>
     <th> <img height="40"src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"> </th>
+    <th> <img height="40"src="https://www.drupal.org/files/project-images/Graph%20API%20logo.png"> </th>
     <th> <img height="32"src="https://logosmarcas.net/wp-content/uploads/2022/04/OneDrive-Simbolo.png"> </th>
     <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/2097px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png"> </th>
     <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Microsoft_Lists_%282020-present%29.svg/1200px-Microsoft_Lists_%282020-present%29.svg.png"> </th>
@@ -30,6 +31,7 @@
     <td> Microsoft Power BI </td>
     <td> Microsoft Power Automate </td>
     <td> Microsoft Power Apps </td>
+    <td> Microsoft Graph API </td>
     <td> Microsoft OneDrive </td>
     <td> Microsoft Sharepoint </td>
     <td> Microsoft Lists </td>
