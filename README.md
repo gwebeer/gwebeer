@@ -2,7 +2,7 @@
 <h3 align="center"> Project Analyst and Information Systems Student </h3>
 
 <p> Welcome to my GitHub! Here I store some projects developed through my academic and professional career! </p>
-<p> 📚 Graduating in Information Systems at PUCPR (Brazil) | 6th period </p>
+<p> 📚 Graduating in Information Systems at PUCPR (Brazil) | 7th period </p>
 <p> 💻 Microsoft Power Plataform Specialist </p>
 <p> 👨‍💻 Focused on designing flows using hyperautomation </p>
 <p> 📫 Contact me on <a href="https://www.linkedin.com/in/weberguilherme/"> LinkedIn </a> or send an <a href="mailto:weber_guilherme@outlook.com"> email</a>. </p>
