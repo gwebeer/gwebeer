@@ -7,44 +7,6 @@
 <p> 👨‍💻 Focused on developing solutions to optimize tasks and processes </p>
 <p> 📫 Contact me on <a href="https://www.linkedin.com/in/weberguilherme/"> LinkedIn </a> or send an <a href="mailto:weber_guilherme@outlook.com"> email</a>. </p>
 
-<h2> Microsoft Power Plataform Specialist </h2>
-<h4> Knowledge of Microsft's Main Tools </h4>
-<table>
-  <thead>
-    <th> <img height="40"src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"> </th>
-    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"></th>
-    <th> <img height="40"src="https://cdn.techcommunity.microsoft.com/assets/PowerPlatform/xuPlE1EJ_400x400.png"> </th>
-    <th> <img height="40"src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"> </th>
-    <th> <img height="40"src="https://www.drupal.org/files/project-images/Graph%20API%20logo.png"> </th>
-    <th> <img height="32"src="https://logosmarcas.net/wp-content/uploads/2022/04/OneDrive-Simbolo.png"> </th>
-    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/2097px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png"> </th>
-    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Microsoft_Lists_%282020-present%29.svg/1200px-Microsoft_Lists_%282020-present%29.svg.png"> </th>
-    <th> <img height="40"src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png"> </th>
-    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/4/49/Microsoft_Bookings_logo.png"> </th>
-    <th> <img height="40"src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"> </th>
-    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> </th>
-    <th> <img height="40"src="https://cursosbig.com.br/wp-content/uploads/2019/03/logo-visual-basic-net-vb.png.webp"> </th>
-    <th> <img height="40"src="https://swimburger.net/media/ppnn3pcl/azure.png"> </th>
-  </thead>
-  <tr>
-    <td> Microsoft Office Excel </td>
-    <td> Microsoft Power BI </td>
-    <td> Microsoft Power Automate </td>
-    <td> Microsoft Power Apps </td>
-    <td> Microsoft Graph API </td>
-    <td> Microsoft OneDrive </td>
-    <td> Microsoft Sharepoint </td>
-    <td> Microsoft Lists </td>
-    <td> Microsoft Teams </td>
-    <td> Microsoft Bookings </td>
-    <td> Microsoft Outlook </td>
-    <td> Microsoft Office Package </td>
-    <td> Visual Basic Application </td>
-    <td> Azure </td>
-  </tr>
- </table>
-
-
 <h2> Hobbysit Developer </h2>
 <h4> Knowledge of languages and frameworks most used by developers </h4>
 <table>
@@ -83,6 +45,43 @@
     <td> MongoDB </td>
     <td> FireBase </td>
     <td> MySql </td>
+  </tr>
+ </table>
+
+ <h2> Microsoft Power Plataform Specialist </h2>
+<h4> Knowledge of Microsft's Main Tools </h4>
+<table>
+  <thead>
+    <th> <img height="40"src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"> </th>
+    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"></th>
+    <th> <img height="40"src="https://cdn.techcommunity.microsoft.com/assets/PowerPlatform/xuPlE1EJ_400x400.png"> </th>
+    <th> <img height="40"src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png"> </th>
+    <th> <img height="40"src="https://www.drupal.org/files/project-images/Graph%20API%20logo.png"> </th>
+    <th> <img height="32"src="https://logosmarcas.net/wp-content/uploads/2022/04/OneDrive-Simbolo.png"> </th>
+    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/2097px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png"> </th>
+    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Microsoft_Lists_%282020-present%29.svg/1200px-Microsoft_Lists_%282020-present%29.svg.png"> </th>
+    <th> <img height="40"src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png"> </th>
+    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/4/49/Microsoft_Bookings_logo.png"> </th>
+    <th> <img height="40"src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png"> </th>
+    <th> <img height="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> </th>
+    <th> <img height="40"src="https://cursosbig.com.br/wp-content/uploads/2019/03/logo-visual-basic-net-vb.png.webp"> </th>
+    <th> <img height="40"src="https://swimburger.net/media/ppnn3pcl/azure.png"> </th>
+  </thead>
+  <tr>
+    <td> Microsoft Office Excel </td>
+    <td> Microsoft Power BI </td>
+    <td> Microsoft Power Automate </td>
+    <td> Microsoft Power Apps </td>
+    <td> Microsoft Graph API </td>
+    <td> Microsoft OneDrive </td>
+    <td> Microsoft Sharepoint </td>
+    <td> Microsoft Lists </td>
+    <td> Microsoft Teams </td>
+    <td> Microsoft Bookings </td>
+    <td> Microsoft Outlook </td>
+    <td> Microsoft Office Package </td>
+    <td> Visual Basic Application </td>
+    <td> Azure </td>
   </tr>
  </table>
 
